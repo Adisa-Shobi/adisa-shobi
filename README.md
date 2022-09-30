@@ -1,3 +1,4 @@
+![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm Shobi</h1>
 <h3 align="center">A passionate self-taught Software Engineer, and certified technology geek.</h3>
 
