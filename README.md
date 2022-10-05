@@ -3,9 +3,14 @@
 
 - 🔭 I’m currently working on [AirBnb Clone](https://github.com/Adisa-Shobi/AirBnB_clone)
 
-
-<p align="center">&nbsp;<img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adisa-shobi&theme=blue-green&layout=compact&bg_color=30,27adba,880e8c&title_color=fff&text_color=fff" alt="adisa-shobi" />
-  <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api?username=adisa-shobi&show_icons=true&theme=blue-green&locale=en&bg_color=-30,880e8c,27adba&title_color=fff&text_color=fff" alt="adisa-shobi" /></p>
+<div align="center">
+<a display="inline">
+<img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adisa-shobi&theme=blue-green&layout=compact&bg_color=30,27adba,880e8c&title_color=fff&text_color=fff" alt="adisa-shobi" />
+</a>
+<a display="inline">
+  <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api?username=adisa-shobi&show_icons=true&theme=blue-green&locale=en&bg_color=-30,880e8c,27adba&title_color=fff&text_color=fff&card_width=450px" alt="adisa-shobi" />
+</a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
